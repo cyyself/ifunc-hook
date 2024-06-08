@@ -14,3 +14,8 @@ make
 export LD_LIBRARY_PATH=$(pwd):$LD_LIBRARY_PATH
 ./main
 ```
+
+
+## Reference
+
+[https://openwall.com/lists/oss-security/2024/03/29/4](https://openwall.com/lists/oss-security/2024/03/29/4)
