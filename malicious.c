@@ -13,7 +13,7 @@ void hack() {
       Here .GOT is mapped to be writable.
       So there is a chance to hijack .GOT.
 
-      TODO: Implement the hijack code here.
+      TODO: Implement the hijack `hello` symbol here.
      */
 }
 
